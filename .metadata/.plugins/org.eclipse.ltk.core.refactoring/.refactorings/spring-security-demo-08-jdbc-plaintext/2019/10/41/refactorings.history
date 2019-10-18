@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-security-demo-08-jdbc-plaintext/src/main/resources/persistence-mysql.properties&apos; to &apos;persistence-oracle.properties&apos;" description="Rename resource &apos;persistence-mysql.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/persistence-mysql.properties" name="persistence-oracle.properties" stamp="1570542643287" updateReferences="true"/>
+</session>
