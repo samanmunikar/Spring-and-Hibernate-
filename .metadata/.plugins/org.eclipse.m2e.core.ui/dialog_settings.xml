@@ -77,6 +77,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\i11044\eclipse-workspace\Spring Boot\20-hibernate-basic-cruddemo"/>
+			<item value="C:\Users\i11044\eclipse-workspace\Spring Boot\03-actuator-demo"/>
 			<item value="C:\Users\i11044\eclipse-workspace\Spring Boot\02-dev-tools-demo"/>
 			<item value="C:\Users\i11044\eclipse-workspace\Spring REST\spring-rest-demo"/>
 			<item value="C:\Users\i11044\eclipse-workspace\Spring REST\jackson-databinding-json-demo"/>
