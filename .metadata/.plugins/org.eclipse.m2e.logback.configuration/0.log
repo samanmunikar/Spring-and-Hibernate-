@@ -4487,3 +4487,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-10-22 08:07:56,342 [Worker-18: Launching CruddemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\i11044\eclipse-workspace\Spring Boot\20-hibernate-basic-cruddemo\src\test\resources
 2019-10-22 14:01:10,339 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2019-10-22 14:01:11,048 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-10-31 10:32:49,209 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-31 10:32:49,996 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
